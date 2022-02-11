@@ -47,13 +47,12 @@ select {
 }
 
 /* Base */
-div{}
-div h2{}
-div h3{}
-div p{}
+header{}
+header h2{}
+header p{}
 
-div{}
-div img{}
+section{}
+section img{}
 
 /* Layout */
 
